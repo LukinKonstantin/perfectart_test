@@ -1,0 +1,12 @@
+interval is counted, t = 74.82794644832612
+trials are counted 0.0 t = 0.8005688548088074
+trials are counted 0.0 t = 1.6048995971679687
+trials are counted 0.0 t = 3.186604638894399
+trials are counted 0.0 t = 6.319711609681447
+trials are counted 0.0 t = 12.764845983187358
+trials are counted 0.0 t = 26.07608152627945
+trials are counted 0.0 t = 54.00675033330917
+trials are counted 0.0 t = 114.48685909112295
+trials are counted 0.142 t = 255.89921441872914
+trials are counted 0.644 t = 617.0382510860761
+trials are counted 0.922 t = 1664.001318625609
